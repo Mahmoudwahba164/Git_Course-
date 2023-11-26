@@ -1,2 +1,4 @@
 # Git_Course-
-for studying git&amp;github 
+For Studying Git&amp;Github 
+
+## Project Notes
